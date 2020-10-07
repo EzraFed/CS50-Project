@@ -1,4 +1,4 @@
-    This website serves as a platform for the creation, collaboration, and sharing of documents and information. The website was designed to have a straightforward
+   This website serves as a platform for the creation, collaboration, and sharing of documents and information. The website was designed to have a straightforward
 and intuitive interface.
     To begin using this website, change your directory to the one containing the relevant files (application.py, documents.db, templates/, static/, etc.).
 Write flask run as a command-line argument in your terminal. Doing so will return a URL. Click on the URL to go to the website. The URL will lead you to the homepage.
